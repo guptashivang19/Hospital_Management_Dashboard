@@ -22,7 +22,7 @@ This project helped me strengthen my skills in data visualization, performance m
 Dashboard image:
 
 <img width="1505" height="844" alt="main" src="https://github.com/user-attachments/assets/cc998fea-d585-4d82-a185-4ae1b6ad83d9" />
-<img width="1277" height="719" alt="main2" src="https://github.com/user-attachments/assets/29062afa-31d3-4379-bc7b-84764f832320" />
+<img width="1312" height="756" alt="main1" src="https://github.com/user-attachments/assets/4b95f73d-729f-4545-ba29-e3d2a60f479b" />
 <img width="1272" height="719" alt="main1" src="https://github.com/user-attachments/assets/ec162a47-c689-4a22-9ed4-4994ea1d1057" />
 
 
